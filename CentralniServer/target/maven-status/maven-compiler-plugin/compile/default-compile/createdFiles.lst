@@ -1,0 +1,7 @@
+com/milica/centralniserver/endpoints/TrgovinaResource.class
+com/milica/centralniserver/resources/JavaEE8Resource.class
+com/milica/centralniserver/JAXRSConfiguration.class
+com/milica/centralniserver/endpoints/ArtikliResource.class
+com/milica/centralniserver/AuthHelper.class
+com/milica/centralniserver/endpoints/KorisniciResource.class
+com/milica/centralniserver/JMSHelper.class
